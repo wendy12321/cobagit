@@ -1,2 +1,2 @@
 Cara menggunakan github: 
-git init 
+1. Git init 
